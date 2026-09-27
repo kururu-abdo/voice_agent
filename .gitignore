@@ -1,0 +1,10 @@
+.env
+api.txt
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+data/chroma/
+uploads/
+*.py[cod]
+*.egg-info/
